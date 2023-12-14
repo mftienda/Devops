@@ -1,1 +1,1 @@
-![goku](descarga.jpeg)
+![goku](/img-moises/descarga.jpeg)
