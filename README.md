@@ -1,5 +1,5 @@
 # Introducción a Devops
-![Devops](img/devops.gif)
+![Devops](img/devops.GIF)
 
 ## Índice
 [1.- Principios de Devops](1.md)
